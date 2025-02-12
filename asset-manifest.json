@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/K1ngHandy/Profile-View.git/static/css/main.1659295c.css",
+    "main.js": "/K1ngHandy/Profile-View.git/static/js/main.c0fc56ac.js",
+    "static/media/Instagram_Glyph_White.png": "/K1ngHandy/Profile-View.git/static/media/Instagram_Glyph_White.bb8a77bfaa323012e852.png",
+    "static/media/DarkWatermark.png": "/K1ngHandy/Profile-View.git/static/media/DarkWatermark.82c4cfe2d382e081616c.png",
+    "static/media/threads-logo-white-01.png": "/K1ngHandy/Profile-View.git/static/media/threads-logo-white-01.6e3b457d43cef7b2b0e1.png",
+    "static/media/TikTok_Icon_Black_Circle.png": "/K1ngHandy/Profile-View.git/static/media/TikTok_Icon_Black_Circle.1baa61a4fef657ee79ba.png",
+    "static/media/Digital_Glyph_Green.png": "/K1ngHandy/Profile-View.git/static/media/Digital_Glyph_Green.58ef144f45421158e44d.png",
+    "static/media/Discord Mark Blue.svg": "/K1ngHandy/Profile-View.git/static/media/Discord Mark Blue.55b513a4b6a44a4d41231223e78e6ade.svg",
+    "index.html": "/K1ngHandy/Profile-View.git/index.html",
+    "main.1659295c.css.map": "/K1ngHandy/Profile-View.git/static/css/main.1659295c.css.map",
+    "main.c0fc56ac.js.map": "/K1ngHandy/Profile-View.git/static/js/main.c0fc56ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1659295c.css",
+    "static/js/main.c0fc56ac.js"
+  ]
+}
